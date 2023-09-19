@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m58bDnVxV5tSgjMit5+cs9qfk7Qn6+Alhzf+KA3HQ/OOBXPgVKpDI99847Ai4/xpEkgx34Bf66eC8SzKJNAi8A==",
+  "success": true,
+  "projectFilePath": "E:\\USB-Manager-Operating-System-Course\\UsbManager-Test\\UsbManager-Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lunatic\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lunatic\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
